@@ -1,5 +1,3 @@
-# NextGame-Game-Search-Engine
-
 # Data Collection
 Tool: Scrapy  
 
