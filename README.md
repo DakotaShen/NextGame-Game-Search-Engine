@@ -1,7 +1,8 @@
 # NextGame-Game-Search-Engine
 
 # Data Collection
-Tool: Scrapy
+Tool: Scrapy  
+
 Data Source: gamespot.com
 
 
